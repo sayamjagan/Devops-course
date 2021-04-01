@@ -1,2 +1,4 @@
 checking branch
 
+Now checking git diff
+
